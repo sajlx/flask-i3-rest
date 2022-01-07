@@ -1,0 +1,3 @@
+
+class NotValidDeleteException(Exception):
+    pass

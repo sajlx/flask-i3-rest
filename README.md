@@ -1,1 +1,1 @@
-# flask-i3-rest
+# flask-i3-rest-base
